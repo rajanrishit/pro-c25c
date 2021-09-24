@@ -1,1 +1,1 @@
-# pro-c25c
+# project-C25-template
